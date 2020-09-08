@@ -1,30 +1,30 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "name": "Kaloyan Sabchev",
+    "occupation": "Software developer in Musala Soft",
+    "description": "Java and Angular by Day && learning React by Night. ",
+    "image": "Kaloyan.jpg",
+    "bio": "My name is Kaloyan, I'm a software engineer in Musala soft. I am trying to change my hobby from gaming to programming, currently learning React",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "kaloyansabchev@gmail.com",
+    "phone": "+359 887 00 60 19",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "Liulin 8",
+      "city": "Sofia",
+      "state": "Bulgaria",
+      "zip": "1000"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/kaloyan.sabchev/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/kaloyan-sabchev-678658154/",
         "className": "fa fa-linkedin"
       },
       {
@@ -34,7 +34,7 @@
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/kSabchev",
         "className": "fa fa-github"
       }
     ]
@@ -43,30 +43,34 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Technical university Sofia",
+        "degree": "Industrial Engineering",
+        "graduated": "almost..",
+        "description": "Semestrially Graduated."
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "Musala Soft",
+        "title": "Junior Software Developer",
+        "years": "Nov 2017 - Jul 2018",
+        "description": "Total noob"
       },
       {
-        "company": "Lindar Media",
+        "company": "Musala soft",
         "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "years": "Jul 2018 - present",
+        "description": "Working on DMS project as Java and Angular developer."
       }
     ],
     "skills": [
       {
+        "name": "AngularJs",
+        "level": "70%"
+      },
+      {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "50%"
       },
       {
         "name": "CSS",
@@ -77,7 +81,7 @@
         "level": "60%"
       },
       {
-        "name": "Figma && Adobe XD",
+        "name": "Java",
         "level": "55%"
       },
       {
@@ -86,7 +90,7 @@
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "10%"
       }
     ]
   },
