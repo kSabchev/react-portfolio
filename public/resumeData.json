@@ -69,23 +69,23 @@
       },
       {
         "name": "CSS",
-        "level": "95%"
-      },
-      {
-        "name": "Git",
         "level": "60%"
       },
       {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
         "name": "Java",
-        "level": "55%"
+        "level": "75%"
       },
       {
         "name": "HTML5",
         "level": "80%"
       },
       {
-        "name": "MongoDB",
-        "level": "10%"
+        "name": "DOTA2",
+        "level": "110%"
       }
     ]
   },
