@@ -93,9 +93,15 @@
     "projects": [
       {
         "title": "Amazon clone",
-        "category": "Amazon clone with React by Cleverprogrammer",
+        "category": "Amazon clone with React by Cleverprogrammer. Implemented routing, home, login and checkout screens, store to persist data, authentication with firebase",
         "image": "amazon-clone-mine.png",
         "url": "https://clone-kaloyan.web.app/?fbclid=IwAR2slsVStKLcTy-qNLhgJh_rw-P0r1P7WzOiWxK2uytznTCSWJIz5X6AtGg"
+      },
+      {
+        "title": "Airbnb clone",
+        "category": "Amazon clone with React by Cleverprogrammer. Implemented routing, home and search screen and using react calendar component.",
+        "image": "airbnb-clone-screenshot.png",
+        "url": "https://react-airbnb-clone-3c87d.web.app/"
       }
     ]
   },
