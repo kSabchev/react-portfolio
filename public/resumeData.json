@@ -5,7 +5,7 @@
     "description": "Java and Angular by Day && learning React by Night. ",
     "image": "Kaloyan.jpg",
     "bio": "My name is Kaloyan, I'm a software engineer in Musala soft. I am trying to change my hobby from gaming to programming, currently learning React",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "contactmessage": "Get in touch with me.",
     "email": "kaloyansabchev@gmail.com",
     "phone": "+359 887 00 60 19",
     "address": {
@@ -93,13 +93,20 @@
     "projects": [
       {
         "title": "Amazon clone",
-        "category": "Amazon clone with React by Cleverprogrammer. Implemented routing, home, login and checkout screens, store to persist data, authentication with firebase",
+        "category": "Implemented routing, home, login and checkout screens, store to persist data, authentication with firebase",
         "image": "amazon-clone-mine.png",
         "url": "https://clone-kaloyan.web.app/?fbclid=IwAR2slsVStKLcTy-qNLhgJh_rw-P0r1P7WzOiWxK2uytznTCSWJIz5X6AtGg"
       },
+      
+      {
+        "title": "Youtube clone",
+        "category": "Implemented routing, home, search page and some reusable components.",
+        "image": "youtube-clone-mine.png",
+        "url": "https://clone-42eb6.web.app"
+      },
       {
         "title": "Airbnb clone",
-        "category": "Amazon clone with React by Cleverprogrammer. Implemented routing, home and search screen and using react calendar component.",
+        "category": "Implemented routing, home and search screen and using react calendar component.",
         "image": "airbnb-clone-screenshot.png",
         "url": "https://react-airbnb-clone-3c87d.web.app/"
       }
