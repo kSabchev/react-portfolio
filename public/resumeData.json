@@ -109,7 +109,16 @@
         "category": "Implemented routing, home and search screen and using react calendar component.",
         "image": "airbnb-clone-screenshot.png",
         "url": "https://react-airbnb-clone-3c87d.web.app/"
+      },      
+      {
+        "title": "Tinder clone",
+        "category": "Using tinder cards.",
+        "image": "tinder-clone-mine.png",
+        "url": "https://tinder-clone-d8570.web.app/"
       }
+
+
+      
     ]
   },
   "testimonials": {
