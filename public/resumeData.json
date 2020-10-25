@@ -61,7 +61,7 @@
     "skills": [
       {
         "name": "AngularJs",
-        "level": "60%"
+        "level": "70%"
       },
       {
         "name": "ReactJs",
@@ -111,6 +111,12 @@
         "category": "Using tinder cards.",
         "image": "tinder-clone-mine.png",
         "url": "https://tinder-clone-d8570.web.app/"
+      },
+      {
+        "title": "Messanger clone",
+        "category":"Real time messanger with Google authentication.",
+        "image":"messanger-clone.png",
+        "url": "https://facebook-messenger-clone-8a228.web.app/"
       }
 
 
