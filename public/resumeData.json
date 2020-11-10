@@ -117,10 +117,13 @@
         "category":"Real time messanger with Google authentication.",
         "image":"messanger-clone.png",
         "url": "https://facebook-messenger-clone-8a228.web.app/"
+      },
+      {
+        "title": "Instagram clone",
+        "category":"Instagram clone. Register with email, login, upload files.",
+        "image":"instagram-clone.png",
+        "url": "https://instagram-clone-863bf.web.app/"
       }
-
-
-      
     ]
   },
   "testimonials": {
