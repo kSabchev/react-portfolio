@@ -91,7 +91,7 @@
         "title": "Amazon clone",
         "category": "Implemented routing, home, login and checkout screens, store to persist data, authentication with firebase",
         "image": "amazon-clone-mine.png",
-        "url": "https://clone-kaloyan.web.app/?fbclid=IwAR2slsVStKLcTy-qNLhgJh_rw-P0r1P7WzOiWxK2uytznTCSWJIz5X6AtGg"
+        "url": "https://clone-kaloyan.web.app/"
       },
       
       {
@@ -123,6 +123,12 @@
         "category":"Instagram clone. Register with email, login, upload files.",
         "image":"instagram-clone.png",
         "url": "https://instagram-clone-863bf.web.app/"
+      },
+      {
+        "title": "Catch pokemon",
+        "category":"Gota catch `em all.",
+        "image":"my-react-hooks-pokemon.png",
+        "url": "https://react-hooks-pokemon.web.app/"
       }
     ]
   },
