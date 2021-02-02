@@ -4,7 +4,7 @@
     "occupation": "Software developer in Musala Soft",
     "description": "Java and Angular by Day & learning React by Night",
     "image": "Kaloyan.jpg",
-    "bio": "My name is Kaloyan, I'm a software engineer in Musala soft. I am trying to change my hobby from gaming to programming, currently learning React",
+    "bio": "My name is Kaloyan, I'm a software engineer in Musala soft. I am trying to change my hobby from gaming to programming, currently learning React.",
     "contactmessage": "Get in touch with me.",
     "email": "kaloyansabchev@gmail.com",
     "phone": "+359 887 00 60 19",
@@ -13,6 +13,9 @@
       "city": "Sofia",
       "state": "Bulgaria",
       "zip": "1000"
+    },
+    "achievements": {
+      
     },
     
     
@@ -49,13 +52,19 @@
         "company": "Musala Soft",
         "title": "Junior Software Developer",
         "years": "Nov 2017 - June 2019",
-        "description": "Started as Java developer."
+        "description": "Got my OCA Java certificate. Worked on DMS and DTV projects for Netherlands customs."
       },
       {
         "company": "Musala soft",
         "title": "Software Engineer",
-        "years": "Jul 2019 - present",
-        "description": "Working on DMS project as Java and Angular developer."
+        "years": "Jul 2019 - Jan 2021",
+        "description": "Worked on Declaration Management System project as Java and Angular developer."
+      },
+      {
+        "company": "VMWare",
+        "title": "Software Engineer",
+        "years": "Jan 2021 - present",
+        "description": "Professional Services Center of Excellence."
       }
     ],
     "skills": [
@@ -129,6 +138,12 @@
         "category":"Gota catch `em all.",
         "image":"my-react-hooks-pokemon.png",
         "url": "https://react-hooks-pokemon.web.app/"
+      },
+      {
+        "title": "LinkedIn clone",
+        "category":"LinkedIn clone.",
+        "image":"linkedin-clone.png",
+        "url": "https://linkedin-clone-d310b.web.app/"
       }
     ]
   },
