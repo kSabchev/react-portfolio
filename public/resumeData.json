@@ -144,6 +144,12 @@
         "category":"LinkedIn clone.",
         "image":"linkedin-clone.png",
         "url": "https://linkedin-clone-d310b.web.app/"
+      },
+      {
+        "title": "Netflix clone",
+        "category":"React, Redux, Firebase, Stripe.",
+        "image":"netflix-clone.jpeg",
+        "url": "https://netflix-clone-decff.web.app/profile"
       }
     ]
   },
